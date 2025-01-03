@@ -18,3 +18,5 @@ p arr.empty?
 p arr.nil?
 p arr.eql?(arr1)
 p arr[4]=101 -- To append specific index
+p arr.uniq
+p arr.join
